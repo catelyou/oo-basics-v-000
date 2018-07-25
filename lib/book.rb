@@ -1,3 +1,7 @@
 class  Book
 
-end 
+  def initialization(title)
+    puts title
+  end
+
+end
